@@ -3,10 +3,6 @@
 <thumbnail></thumbnail>
 
 
-<name>Live Streams</name>
-<thumbnail></thumbnail>
-<link></link>
-
 <name>Movies</name>
 <thumbnail></thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/instastream/master/movies.xml</link>
