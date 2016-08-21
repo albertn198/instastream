@@ -4,9 +4,9 @@
 
 
 <item>
- <title>The Secret life of Pets</title>
+ <title>The Secret life of Pets 1</title>
  <thumbnail>http://cdn1-www.comingsoon.net/assets/uploads/gallery/the-secret-life-of-pets/pts_adv1sht5_rgb_0125_7sm2.jpg</thumbnail>
- <link>rtmp://$OPT:rtmp-raw=rtmp://182.92.189.193/live playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos</link>
+ <link>rtmp://182.92.189.193/live playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos</link>
 </item>
 
 <item>
