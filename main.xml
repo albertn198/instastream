@@ -3,14 +3,9 @@
 <thumbnail></thumbnail>
 
 
-<name>Movies [COLOR limegreen]Animation[/COLOR]</name>
+<name>Movies</name>
 <thumbnail>http://cdn3.bigcommerce.com/s-f13wm1i7/product_images/uploaded_images/htc.jpg?t=1436601164</thumbnail>
+<fanart>http://www.bearcastmedia.com/wp-content/uploads/2016/09/movies.jpg</fanart>
 <link>https://raw.githubusercontent.com/albertn198/instastream/master/movies.xml</link>
 
-<name>Movie Thrillers</name>
-<thumbnail>http://2.bp.blogspot.com/-xiz8LCuAi0E/UgvdJ6mzxiI/AAAAAAAABxI/uzIuYvrvU7k/s1600/thrillers.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/instastream/master/thriller_movies.xml</link>
 
-<name>Jeff Marshall</name>
-<thumbnail>http://filipinofreethinkers.org/wp-content/uploads/2014/10/loser.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/instastream/master/jeff.xml</link>
